@@ -1,3 +1,2 @@
 puts "Bluue"
-"
 
